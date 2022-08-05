@@ -1,0 +1,29 @@
+span.estimate-reading-time{
+	visibility:hidden;
+}
+div.wc-author-box{
+	
+}
+
+.walkerwp-container{
+	padding:0 20px;
+}
+@media only screen and (max-width: 600px) {
+  .walkerwp-container{
+	padding:0 0px;
+}
+}
+@media only screen and (max-width: 600px) {
+  .walkerwp-wraper.inner-wraper main#primary {
+		bottom:50px;
+}
+}
+.sfsiplus_footerLnk {
+    visibility: hidden !important;
+}
+div.site-info.walkerwp-grid-12{
+	visibility:hidden !important;
+}
+.footer-copyright-wraper .walkerwp-grid-12{
+	bottom:-30px;
+}
